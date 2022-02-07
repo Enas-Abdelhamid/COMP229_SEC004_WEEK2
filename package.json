@@ -1,0 +1,22 @@
+{
+  "name": "comp229_sec004_week2",
+  "version": "1.0.0",
+  "description": "Demo for Week 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enas-Abdelhamid/COMP229_SEC004_WEEK2.git"
+  },
+  "author": "Enas Abdelhamid - 301234410",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enas-Abdelhamid/COMP229_SEC004_WEEK2/issues"
+  },
+  "homepage": "https://github.com/Enas-Abdelhamid/COMP229_SEC004_WEEK2#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
